@@ -10,4 +10,4 @@ I ```compiler/``` [(mer info)](./compiler/README.md) ligger en mindre kompilator
 
 # TSP
 
-I ```tsp/``` [(mer info)](./evo/README.md) finns C++-kod för att beräkna hyffsade lösningar för TSP.
+I ```tsp/``` [(mer info)](./tsp/README.md) finns C++-kod för att beräkna hyffsade lösningar för TSP.
