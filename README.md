@@ -11,3 +11,7 @@ I [```compiler/```](./compiler) ligger en mindre kompilator för ett egendefinie
 # TSP
 
 I [```tsp/```](./tsp) finns C++-kod för att beräkna hyffsade lösningar för TSP.
+
+# Övrigt
+
+Andra trevliga projekt som jag arbetat med på sistone är till exempel [ett mentometersystem för sektionsmöten](https://github.com/datasektionen/mentometer) (Node och React med websockets) och [ett budgetsystem](https://github.com/datasektionen/budget) (i PHP Laravel).
