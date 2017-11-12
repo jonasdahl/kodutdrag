@@ -8,9 +8,13 @@ I [```evo/```](./evo) finns kod för att jämföra DNA-strängar och skriva ut e
 
 I [```compiler/```](./compiler) ligger en mindre kompilator för ett egendefinierat språk kallat Punkt0. Denna byggdes som ett projekt i kursen Kompilatorkonstruktion på KTH.
 
-# TSP
+# TSP i C++
 
 I [```tsp/```](./tsp) finns C++-kod för att beräkna hyffsade lösningar för TSP.
+
+# Rollbesättning i Java
+
+I [```roles/```](./roles) finns Java-kod som beräknar en heuristisk lösning till rollbesättningsproblemet.
 
 # Övrigt
 
