@@ -7,3 +7,7 @@ I ```evo/``` [(mer info)](./evo/README.md) finns kod för att jämföra DNA-str�
 # Kompilator i Scala
 
 I ```compiler/``` [(mer info)](./compiler/README.md) ligger en mindre kompilator för ett egendefinierat språk kallat Punkt0. Denna byggdes som ett projekt i kursen Kompilatorkonstruktion på KTH.
+
+# TSP
+
+I ```tsp/``` [(mer info)](./evo/README.md) finns C++-kod för att beräkna hyffsade lösningar för TSP.
