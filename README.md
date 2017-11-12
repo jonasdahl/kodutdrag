@@ -18,4 +18,4 @@ I [```roles/```](./roles) finns Java-kod som beräknar en heuristisk lösning ti
 
 # Övrigt
 
-Andra trevliga projekt som jag arbetat med på sistone är till exempel [ett mentometersystem för sektionsmöten](https://github.com/datasektionen/mentometer) (Node och React med websockets) och [ett budgetsystem](https://github.com/datasektionen/budget) (i PHP Laravel).
+Andra trevliga projekt som jag arbetat med på sistone är till exempel [ett mentometersystem för sektionsmöten](https://github.com/datasektionen/mentometer) ([live](https://mentometer.datasektionen.se), i Node och React med websockets) och [ett budgetsystem](https://github.com/datasektionen/budget) ([live](https://budget.datasektionen.se), i PHP Laravel).
